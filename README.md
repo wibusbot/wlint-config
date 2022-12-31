@@ -1,0 +1,1 @@
+# wlint-config
